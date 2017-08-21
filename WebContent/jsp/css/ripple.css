@@ -1,0 +1,1 @@
+@charset "UTF-8";.shadow{width:100px;margin:29% auto}.shadow-ripple{animation:ripple-opacity 2s linear 0s infinite;transform:scale(1)}.shadow-ripple{margin:0 auto 0 auto;width:39%;display:inline-block;position:relative;z-index:10}@keyframes ripple-opacity{0%{transform:scale(0);opacity:0}50%{transform:scale(1);opacity:.5}100%{transform:scale(0);opacity:0}}
